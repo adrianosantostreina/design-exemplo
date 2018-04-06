@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/14 21:10:51.000.379,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/01 11:06:22.000.002,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/03 23:49:41.000.804,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/22 09:01:47.000.107,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/25 15:41:03.000.686,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/03 22:24:53.000.205,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/06 15:36:23.366,=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/06 16:31:58.995,C:\GitHub TDevRocks\design-exemplo\mobile\Unit1.fmx=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/04/06 16:31:58.995,C:\GitHub TDevRocks\design-exemplo\mobile\Unit1.pas=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/04/06 16:32:06.292,C:\GitHub TDevRocks\design-exemplo\mobile\LoginExemplo.dproj=C:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PMac iOSSimulator="iPhone5"/>
+		<NoProfile iOSSimulator="iPhone5" Android="0023109677"/>
+		<PmacOS iOSSimulator="_iossimulator_EE49F575-19A6-4C5C-9F8F-D11543B76CF7"/>
+	</ActiveMobileDevice>
+</BorlandProject>
